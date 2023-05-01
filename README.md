@@ -1,4 +1,4 @@
-# ALX Cohort6 Final Project - Interactive card details form solution
+# ALX Cohort6 Final Project - Interactive Credit Card generator form
 
 This is a solution to the [Interactive card details form challenge on 
 ## Table of contents
