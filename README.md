@@ -53,6 +53,6 @@ This was a real challenge to me because of the card layouts, it was difficult to
 
 I wan to learn more about this kind of odd positioning, I think I can get better with that, I also want to improve my responsive design skills.
 
-## Author
+## Author ##[David Michael]
 
 - Website - [David Michael](https://github.com/thebillionairepastor/)
