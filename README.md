@@ -1,7 +1,6 @@
-# Frontend Mentor - Interactive card details form solution
+# ALX Cohort6 Final Project - Interactive card details form solution
 
-This is a solution to the [Interactive card details form challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/interactive-card-details-form-XpS8cKZDWw). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
-
+This is a solution to the [Interactive card details form challenge on 
 ## Table of contents
 
 - [Overview](#overview)
@@ -33,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- [Solution URL](https://github.com/Melchor16/cc-form)
-- [Live Site URL](https://melchor16.github.io/cc-form/)
+- [Solution URL](https://github.com/thebillionairepastor/credit-card-App)
+- 
 
 ## My process
 
@@ -56,5 +55,4 @@ I wan to learn more about this kind of odd positioning, I think I can get better
 
 ## Author
 
-- Website - [Erick Melchor](https://github.com/Melchor16)
-- Frontend Mentor - [@Melchor16](https://www.frontendmentor.io/profile/Melchor16)
+- Website - [David Michael](https://github.com/thebillionairepastor/)
